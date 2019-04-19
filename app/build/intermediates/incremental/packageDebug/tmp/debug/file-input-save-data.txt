@@ -1,0 +1,7 @@
+#Internal package file, do not edit.
+#Fri Apr 19 16:35:27 EAT 2019
+0.baseType=DIRECTORY
+0.base=/Users/apple/Documents/finalProject/MaterialMe-Starter/app/build/intermediates/transforms/dexMerger/debug/0
+0.path=classes.dex
+0.set=DEX
+count=1

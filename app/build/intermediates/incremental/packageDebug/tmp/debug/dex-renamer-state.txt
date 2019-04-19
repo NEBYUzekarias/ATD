@@ -1,0 +1,4 @@
+#Fri Apr 19 16:35:27 EAT 2019
+base.0=/Users/apple/Documents/finalProject/MaterialMe-Starter/app/build/intermediates/transforms/dexMerger/debug/0
+path.0=classes.dex
+renamed.0=classes.dex
