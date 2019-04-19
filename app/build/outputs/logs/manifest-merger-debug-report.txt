@@ -1,0 +1,102 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/apple/Documents/finalProject/MaterialMe-Starter/app/src/main/AndroidManifest.xml:17:1-35:12
+INJECTED from /Users/apple/Documents/finalProject/MaterialMe-Starter/app/src/main/AndroidManifest.xml:17:1-35:12
+INJECTED from /Users/apple/Documents/finalProject/MaterialMe-Starter/app/src/main/AndroidManifest.xml:17:1-35:12
+INJECTED from /Users/apple/Documents/finalProject/MaterialMe-Starter/app/src/main/AndroidManifest.xml:17:1-35:12
+MERGED from [com.android.support:cardview-v7:27.1.1] /Users/apple/.gradle/caches/transforms-1/files-1.1/cardview-v7-27.1.1.aar/e8667aa4ce4ffbe6cd8a057ee1edcac5/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:appcompat-v7:27.1.1] /Users/apple/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/8271e787104ff1d2822dc2d86c3b8ccc/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:recyclerview-v7:27.1.1] /Users/apple/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-27.1.1.aar/074e0e9dfbe20996d9283ea350a72a9f/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:27.1.1] /Users/apple/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/c8d7353869817a278dd7fc17fba24c5b/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /Users/apple/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/46fde208260eabfe14b5a3cac61c3c13/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.1.1] /Users/apple/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/71529316b69cbab619674b5672161bfe/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.1.1] /Users/apple/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/1a51197c64d7f1b18b3fd3afce65a8f5/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /Users/apple/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/7aada4348d9385f120687063068b0edd/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.1.1] /Users/apple/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/2ecb5babb175264abb27427814476e93/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /Users/apple/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/604968018881b88a3da7f386c941ad1c/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /Users/apple/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/730d0b609480946c111a22ae96337a96/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /Users/apple/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/1826d87214fe12da4571f947978e18dc/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.0] /Users/apple/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/9818422cc397425eead7afd38fa8401b/AndroidManifest.xml:17:1-22:12
+INJECTED from /Users/apple/Documents/finalProject/MaterialMe-Starter/app/src/main/AndroidManifest.xml:17:1-35:12
+INJECTED from /Users/apple/Documents/finalProject/MaterialMe-Starter/app/src/main/AndroidManifest.xml:17:1-35:12
+INJECTED from /Users/apple/Documents/finalProject/MaterialMe-Starter/app/src/main/AndroidManifest.xml:17:1-35:12
+	package
+		ADDED from /Users/apple/Documents/finalProject/MaterialMe-Starter/app/src/main/AndroidManifest.xml:18:5-45
+		INJECTED from /Users/apple/Documents/finalProject/MaterialMe-Starter/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/apple/Documents/finalProject/MaterialMe-Starter/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/apple/Documents/finalProject/MaterialMe-Starter/app/src/main/AndroidManifest.xml
+		ADDED from /Users/apple/Documents/finalProject/MaterialMe-Starter/app/src/main/AndroidManifest.xml:17:1-35:12
+		INJECTED from /Users/apple/Documents/finalProject/MaterialMe-Starter/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/apple/Documents/finalProject/MaterialMe-Starter/app/src/main/AndroidManifest.xml
+		ADDED from /Users/apple/Documents/finalProject/MaterialMe-Starter/app/src/main/AndroidManifest.xml:17:1-35:12
+		INJECTED from /Users/apple/Documents/finalProject/MaterialMe-Starter/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/apple/Documents/finalProject/MaterialMe-Starter/app/src/main/AndroidManifest.xml:17:11-69
+application
+ADDED from /Users/apple/Documents/finalProject/MaterialMe-Starter/app/src/main/AndroidManifest.xml:20:5-33:19
+	android:supportsRtl
+		ADDED from /Users/apple/Documents/finalProject/MaterialMe-Starter/app/src/main/AndroidManifest.xml:24:9-35
+	android:label
+		ADDED from /Users/apple/Documents/finalProject/MaterialMe-Starter/app/src/main/AndroidManifest.xml:23:9-41
+	android:icon
+		ADDED from /Users/apple/Documents/finalProject/MaterialMe-Starter/app/src/main/AndroidManifest.xml:22:9-43
+	android:allowBackup
+		ADDED from /Users/apple/Documents/finalProject/MaterialMe-Starter/app/src/main/AndroidManifest.xml:21:9-35
+	android:theme
+		ADDED from /Users/apple/Documents/finalProject/MaterialMe-Starter/app/src/main/AndroidManifest.xml:25:9-40
+activity#com.example.android.materialme.MainActivity
+ADDED from /Users/apple/Documents/finalProject/MaterialMe-Starter/app/src/main/AndroidManifest.xml:26:9-32:20
+	android:name
+		ADDED from /Users/apple/Documents/finalProject/MaterialMe-Starter/app/src/main/AndroidManifest.xml:26:19-77
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/apple/Documents/finalProject/MaterialMe-Starter/app/src/main/AndroidManifest.xml:27:13-31:29
+action#android.intent.action.MAIN
+ADDED from /Users/apple/Documents/finalProject/MaterialMe-Starter/app/src/main/AndroidManifest.xml:28:17-69
+	android:name
+		ADDED from /Users/apple/Documents/finalProject/MaterialMe-Starter/app/src/main/AndroidManifest.xml:28:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/apple/Documents/finalProject/MaterialMe-Starter/app/src/main/AndroidManifest.xml:30:17-77
+	android:name
+		ADDED from /Users/apple/Documents/finalProject/MaterialMe-Starter/app/src/main/AndroidManifest.xml:30:27-74
+uses-sdk
+INJECTED from /Users/apple/Documents/finalProject/MaterialMe-Starter/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/apple/Documents/finalProject/MaterialMe-Starter/app/src/main/AndroidManifest.xml
+INJECTED from /Users/apple/Documents/finalProject/MaterialMe-Starter/app/src/main/AndroidManifest.xml
+MERGED from [com.android.support:cardview-v7:27.1.1] /Users/apple/.gradle/caches/transforms-1/files-1.1/cardview-v7-27.1.1.aar/e8667aa4ce4ffbe6cd8a057ee1edcac5/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:27.1.1] /Users/apple/.gradle/caches/transforms-1/files-1.1/cardview-v7-27.1.1.aar/e8667aa4ce4ffbe6cd8a057ee1edcac5/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] /Users/apple/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/8271e787104ff1d2822dc2d86c3b8ccc/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] /Users/apple/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/8271e787104ff1d2822dc2d86c3b8ccc/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.1.1] /Users/apple/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-27.1.1.aar/074e0e9dfbe20996d9283ea350a72a9f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.1.1] /Users/apple/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-27.1.1.aar/074e0e9dfbe20996d9283ea350a72a9f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] /Users/apple/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/c8d7353869817a278dd7fc17fba24c5b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] /Users/apple/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/c8d7353869817a278dd7fc17fba24c5b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /Users/apple/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/46fde208260eabfe14b5a3cac61c3c13/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /Users/apple/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/46fde208260eabfe14b5a3cac61c3c13/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] /Users/apple/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/71529316b69cbab619674b5672161bfe/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] /Users/apple/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/71529316b69cbab619674b5672161bfe/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] /Users/apple/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/1a51197c64d7f1b18b3fd3afce65a8f5/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] /Users/apple/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/1a51197c64d7f1b18b3fd3afce65a8f5/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /Users/apple/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/7aada4348d9385f120687063068b0edd/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /Users/apple/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/7aada4348d9385f120687063068b0edd/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] /Users/apple/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/2ecb5babb175264abb27427814476e93/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] /Users/apple/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/2ecb5babb175264abb27427814476e93/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /Users/apple/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/604968018881b88a3da7f386c941ad1c/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /Users/apple/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/604968018881b88a3da7f386c941ad1c/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /Users/apple/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/730d0b609480946c111a22ae96337a96/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /Users/apple/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/730d0b609480946c111a22ae96337a96/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /Users/apple/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/1826d87214fe12da4571f947978e18dc/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /Users/apple/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/1826d87214fe12da4571f947978e18dc/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] /Users/apple/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/9818422cc397425eead7afd38fa8401b/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] /Users/apple/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/9818422cc397425eead7afd38fa8401b/AndroidManifest.xml:20:5-44
+INJECTED from /Users/apple/Documents/finalProject/MaterialMe-Starter/app/src/main/AndroidManifest.xml
+INJECTED from /Users/apple/Documents/finalProject/MaterialMe-Starter/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/apple/Documents/finalProject/MaterialMe-Starter/app/src/main/AndroidManifest.xml
+		ADDED from /Users/apple/Documents/finalProject/MaterialMe-Starter/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/apple/Documents/finalProject/MaterialMe-Starter/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/apple/Documents/finalProject/MaterialMe-Starter/app/src/main/AndroidManifest.xml
+		ADDED from /Users/apple/Documents/finalProject/MaterialMe-Starter/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/apple/Documents/finalProject/MaterialMe-Starter/app/src/main/AndroidManifest.xml
